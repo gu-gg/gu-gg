@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- A CS student in South Normal University
+- Kinda programming Competitor
+- Currently learning system
 <!--
 **gu-gg/gu-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
